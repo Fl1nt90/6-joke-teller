@@ -56,6 +56,7 @@ button:disabled {
   .container {
     background-position: center center;
     background-size: cover;
+    justify-content: flex-end; /* button on the bottom */
   }
 
   button {
